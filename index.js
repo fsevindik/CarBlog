@@ -42,7 +42,7 @@ let posts = [
     title: "Godzilla  Nissan-GT-R",
     content:
       "At launch, the R32 Skyline GT-R of 1989 was often mentioned in the same sentence as the Porsche 959. It was designed around a set of racing rules, Group A, and dominated. And as a road car it’s awesome, and some people called it as GODZILLA. ",
-    author: "Samuari",
+    author: "Samuari Jack",
     pictureUrl:
       "https://www.topgear.com/sites/default/files/news-listicle/image/8s4a8993.jpg?w=827&h=465",
   },
